@@ -7,7 +7,6 @@ function Login() {
         e.preventDefault();
         console.log(email);
         console.log(password);
-        console.log(import.meta.REACT_APP_SUPABASE_URL);
     }
   return (
     <>
